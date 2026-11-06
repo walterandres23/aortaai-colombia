@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you refer to AortaAI Colombia, please cite the IOCIM 2026 contribution below."
+title: "AortaAI Colombia: Automated CTA Pipeline for Thoracic Aortic Aneurysm Risk Stratification"
+abstract: >
+  Automated pipeline for thoracic aortic aneurysm risk stratification from CT
+  angiography, validated on 43 studies from Colombian patients (MAE 2.48 mm,
+  r = 0.957). This repository is a public showcase; the source code is private.
+type: software
+authors:
+  - family-names: "Cárdenas Barrios"
+    given-names: "Walter Andrés"
+    affiliation: "Universidad de Ibagué"
+    country: CO
+  - family-names: "Forero"
+    given-names: "Manuel Guillermo"
+    affiliation: "Universidad de Ibagué"
+    country: CO
+  - family-names: "Sezen"
+    given-names: "Neslihan"
+    affiliation: "Koblenz University of Applied Sciences"
+    country: DE
+repository-code: "https://github.com/walterandres23/aortaai-colombia"
+date-released: "2026-11-05"
+keywords:
+  - aortic aneurysm
+  - medical imaging
+  - CT angiography
+  - segmentation
+  - TotalSegmentator
+  - VMTK
+  - Colombia
+preferred-citation:
+  type: conference-paper
+  title: "Medical System for Thoracic Aortic Aneurysm Risk Stratification in Colombian Patients"
+  authors:
+    - family-names: "Cárdenas Barrios"
+      given-names: "Walter Andrés"
+    - family-names: "Forero"
+      given-names: "Manuel Guillermo"
+    - family-names: "Sezen"
+      given-names: "Neslihan"
+  conference:
+    name: "1st International Online Conference on Imaging (IOCIM 2026)"
+  publisher:
+    name: "MDPI"
+  year: 2026
