@@ -84,7 +84,7 @@ Z1 carries the largest error because of one atypical 66 mm aneurysm that the met
 
 ## Web application
 
-A tablet-friendly app for the physician: log in, upload the CT, fill in the clinical form, and get the report.
+A computer and tablet-friendly app for the physician: log in, upload the CT, fill in the clinical form, and get the report.
 
 <p align="center">
   <img src="media/app/report.png" width="420" alt="Report">
