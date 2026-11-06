@@ -4,7 +4,7 @@
 
 From a raw DICOM study to a structured clinical report: aorta segmentation, centerline, perpendicular diameters by anatomical zone, body-size-adjusted indices, growth rate, a clinical risk score, alerts and a web app for physicians.
 
-Undergraduate thesis in Electronic Engineering, Universidad de Ibagué (Semillero Lún), with clinical data from Los Cobos Medical Center (Bogotá). Presented at **IOCIM 2026**, the 1st International Online Conference on Imaging (MDPI *Journal of Imaging*).
+Undergraduate thesis in Electronic Engineering, Universidad de Ibagué (Semillero Lún), with clinical data from Los Cobos Medical Center (Bogotá). Presented at **IOCIM 2026**, the 1st International Online Conference on Imaging (MDPI *Journal of Imaging*), ENISI, MAPI4 and EDESI.
 
 > **This is a showcase repository.** The source code is private because the system is being prepared as a product. This page documents what it does, how it works and how it was validated. No patient data is published.
 
